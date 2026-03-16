@@ -7,8 +7,7 @@
     "nom_orig": "Noriko",
     "texte_orig": "Sister![SP]I[SP]had[SP]a[SP]feeling[SP]you'd[SP]be[SP]here...[1205][001E]\nCome[SP]on,[SP]let's[SP]go[SP]back[SP]together!",
     "nom_fr": "Noriko",
-    "texte_fr": "Frangine! J avais le sentiment que tu serais là...[1205][001E]
-    Allez, retournons ensemble!"
+    "texte_fr": "Frangine! J avais le sentiment que tu serais là...[1205][001E]\nAllez, retournons ensemble!"
   },
   {
     "id": 1,
@@ -17,8 +16,8 @@
     "data_size": 74,
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah![SP]Noriko's[SP]here[SP]too!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Aiyah! Noriko est là aussi !?"
   },
   {
     "id": 2,
@@ -27,8 +26,8 @@
     "data_size": 136,
     "nom_orig": "Ginko",
     "texte_orig": "Looks[SP]like[SP]she[SP]still[SP]hasn't[SP]given[SP]up\non[SP]Anna[SP]Yoshizaka...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Il semblerait qu elle n a toujours pas abandonnée\nAnna Yoshizaka"
   },
   {
     "id": 3,
@@ -37,8 +36,8 @@
     "data_size": 230,
     "nom_orig": "Noriko",
     "texte_orig": "Sister,[SP]no![SP]You[SP]can't[SP]keep[SP]that[SP]up[SP]or\nit'll[SP]ruin[SP]your[SP]health[SP]even[SP]worse!\nThen[SP]you'll[SP]never[SP]run[SP]again...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Noriko",
+    "texte_fr": "Frangine, non! Tu ne peux pas garder ça sinon\ntu vas ruiner encore plus ta santé!\n Après tu ne pourras plus jamais courir..."
   },
   {
     "id": 4,
@@ -47,8 +46,8 @@
     "data_size": 32,
     "nom_orig": "Anna",
     "texte_orig": "......",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Anna",
+    "texte_fr": "......"
   },
   {
     "id": 5,
@@ -57,8 +56,8 @@
     "data_size": 124,
     "nom_orig": "Noriko",
     "texte_orig": "Sister...[1205][001E][SP]Am[SP]I[SP]that[SP]much[SP]of[SP]an[SP]annoyance\nto[SP]you?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Noriko",
+    "texte_fr": "Frangine...[1205][001E] Suis je aussi ennuyante que ça\n pour toi ?"
   },
   {
     "id": 6,
@@ -67,8 +66,8 @@
     "data_size": 44,
     "nom_orig": "Noriko",
     "texte_orig": "You[SP]idiot!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Noriko",
+    "texte_fr": "Idiote!"
   },
   {
     "id": 7,
@@ -77,8 +76,8 @@
     "data_size": 198,
     "nom_orig": "Yukino",
     "texte_orig": "Don't[SP]do[SP]this.[SP]Trying[SP]to[SP]be[SP]something\nyou're[SP]not[SP]isn't[SP]cool.[E1][E2]\n[E3][E4][NULL][NULL]\"Anna\n...Who're[SP]you?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+  "texte_fr": "Ne fais pas ça. Essayer d être quelque chose\n que tu n'es pas ne parait pas cool.[E1][E2]\n[E3][E4][NULL][NULL]\"Anna\n...Qui est tu?"
   },
   {
     "id": 8,
@@ -87,8 +86,8 @@
     "data_size": 144,
     "nom_orig": "Yukino",
     "texte_orig": "Me?[SP]I'm[SP]Yukino[SP]Mayuzumi.\nJust...[SP]an[SP]apprentice[SP]photographer.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Moi? Je suis Yukino Mayuzumi.\n Juste... une apprentie photographe."
   },
   {
     "id": 9,
