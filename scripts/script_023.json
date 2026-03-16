@@ -107,7 +107,7 @@
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Alright![1205][U+000A][SP]Looking[SP]good[SP]there,[SP]Kaoru,[SP]and[SP]not\nat[SP]all[SP]drunk.[SP]Looking[SP]like[SP]a[SP]man[SP]who's[SP]living\nup[SP]to[SP]his[SP]dreams.",
     "nom_fr": "Jeune homme bourré",
-    "texte_fr": "Très bien![1205][U+000A] T'a l'air bien là, Kaoru, et pas\n bourré. On dirait un mec qui vit\n comme il en rêvait."
+    "texte_fr": "Très bien![1205][U+000A] T'a l'air bien, Kaoru, pas\n bourré. On dirait un mec qui vit\n comme il en rêvait."
   },
   {
     "id": 11,
@@ -117,7 +117,7 @@
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Hey,[SP]I'm[SP]gonna[SP]head[SP]home[SP]now...[1205][U+000A][SP]so[SP]you[SP]kids\nshould[SP]go[SP]home,[SP]too!",
     "nom_fr": "Jeune homme bourré",
-    "texte_fr": "Hey, je vais rentrer chez moi maintenant...[1205][U+000A] alors vous aussi les enfants\n vous devriez!"
+    "texte_fr": "Hey, je vais rentrer chez moi ...[1205][U+000A] alors vous aussi\n vous devriez!"
   },
   {
     "id": 12,
@@ -127,6 +127,6 @@
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Or[SP]else[SP]I'll[SP]have[SP]to[SP]arrest[SP]you,[SP]haha.",
     "nom_fr": "Jeune homme bourré",
-    "texte_fr": "Sinon je vais devoir vous arrêter, haha."
+    "texte_fr": "Sinon je vais vous arrêter, haha."
   }
 ]
