@@ -17,7 +17,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Yeah...[1205][001E][SP]I[SP]don't[SP]mind,[SP]either.",
     "nom_fr": "Garçon",
-    "texte_fr": "Oui...[1205][001E] M'importe."
+    "texte_fr": "Oui..[1205][001E] M'importe."
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Oh[SP]yeah!",
     "nom_fr": "Garçon",
-    "texte_fr": "Cool!"
+    "texte_fr": "Oui!"
   },
   {
     "id": 3,
@@ -47,7 +47,7 @@
     "nom_orig": "Boy",
     "texte_orig": "It's[SP]okay.[SP]I[SP]mean,[SP]you're[SP]practically[SP]me.\nAnd[SP]I'm[SP]you.[SP]It'll[SP]be[SP]like[SP]I[SP]still[SP]have[SP]it!",
     "nom_fr": "Garçon",
-    "texte_fr": "Ca va. Je veux dire, t'es moi.\n Et moi toi. C'est comme si je l'avais!"
+    "texte_fr": "Ca va. T'es moi.\n Et moi toi. C'est comme si je l'ai!"
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Seeya,[SP]barkeep.[SP]I'll[SP]come[SP]again...\nYeah,[SP]I[SP]promise.",
     "nom_fr": "Jeune homme bourré",
-    "texte_fr": "¨Plus. Je reviendrais...\n Juré."
+    "texte_fr": "Plus. On se reverra...\n Juré."
   },
   {
     "id": 9,
@@ -107,7 +107,7 @@
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Alright![1205][U+000A][SP]Looking[SP]good[SP]there,[SP]Kaoru,[SP]and[SP]not\nat[SP]all[SP]drunk.[SP]Looking[SP]like[SP]a[SP]man[SP]who's[SP]living\nup[SP]to[SP]his[SP]dreams.",
     "nom_fr": "Jeune homme bourré",
-    "texte_fr": "Bien![1205][U+000A] T'es bien, Kaoru, pas\n bourré. Un mec qui vit\n comme il rêvait."
+    "texte_fr": "Bien![1205][U+000A] T'es bien, Kaoru, pas\n bourré. Tu vis\n comme tu rêvais."
   },
   {
     "id": 11,
