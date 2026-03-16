@@ -17,7 +17,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Yeah...[1205][001E][SP]I[SP]don't[SP]mind,[SP]either.",
     "nom_fr": "Garçon",
-    "texte_fr": "Ouais...[1205][001E] Ca ne me dérange pas non plus"
+    "texte_fr": "Ouais...[1205][001E] Ca ne me dérange pas."
   },
   {
     "id": 2,
@@ -37,7 +37,7 @@
     "nom_orig": "Boy",
     "texte_orig": "This[SP]is[SP]my[SP]treasure.[SP]Papa[SP]gave[SP]it[SP]to[SP]me.[1205][001E]\nYou[SP]can[SP]have[SP]it,[SP][U+1113].",
     "nom_fr": "Garçon",
-    "texte_fr": "C est mon trésor. Papa me l'a donné.[1205][001E]\n Tu peux l'avoir,[SP][U+1113]."
+    "texte_fr": "C'est mon trésor. Papa me l'a donné.[1205][001E]\n Tu peux l'avoir,[SP][U+1113]."
   },
   {
     "id": 4,
@@ -47,7 +47,7 @@
     "nom_orig": "Boy",
     "texte_orig": "It's[SP]okay.[SP]I[SP]mean,[SP]you're[SP]practically[SP]me.\nAnd[SP]I'm[SP]you.[SP]It'll[SP]be[SP]like[SP]I[SP]still[SP]have[SP]it!",
     "nom_fr": "Garçon",
-    "texte_fr": "C est rien. Je veux dire, tu es pratiquement moi.\n Et je suis toi. Ce sera comme si je l'avais encore!"
+    "texte_fr": "C'est rien. Je veux dire, tu es pratiquement moi.\n Et je suis toi. Ce sera comme si je l'avais encore!"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Isn't[SP]this...[1205][001E][SP]your[SP]treasure?[SP]I[SP]thought\nyour[SP]dad[SP]gave[SP]this[SP]to[SP]you.[SP]You[SP]can't...",
     "nom_fr": "Garçon",
-    "texte_fr": "N est ce pas...[1205][001E] ton trésor? Je croyais que\n ton père te l avait donné. Tu ne peux pas..."
+    "texte_fr": "N est ce pas...[1205][001E] ton trésor? Je croyais que\n ton père te l'avait donné. Tu ne peux..."
   },
   {
     "id": 6,
@@ -67,7 +67,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Okay,[SP]I[SP]understand.[SP]It'll[SP]be[SP]my[SP]treasure[SP]now!",
     "nom_fr": "Garçon",
-    "texte_fr": "OKay, je comprends. Ce sera mon trésor maintenant!"
+    "texte_fr": "Okay, compris. Ce sera mon trésor maintenant!"
   },
   {
     "id": 7,
@@ -77,7 +77,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Ahahahaha![SP]You're[SP]the[SP]greatest,[SP][U+1113]!\n[E1][E2][E4][NULL][NULL]\"Boy\nNo[SP]matter[SP]what[SP]happens,[SP]we're[SP]gonna[SP]keep[SP]our\npromise[SP]to[SP]each[SP]other![SP]Forever[SP]and[SP]ever!",
     "nom_fr": "Garçon",
-    "texte_fr": "Ahahahaha! T'es le meilleur,[SP][U+1113]!\n[E1][E2][E4][NULL][NULL]\"Garçon\nQu'importe ce qu'il arrive, nous allons garder notre\npromesse envers l'autre! Pour toujours et à jamais! "
+    "texte_fr": "Ahahahaha! T'es le meilleur,[SP][U+1113]!\n[E1][E2][E4][NULL][NULL]\"Garçon\nQu'importe ce qu'il arrive, nous garderons notre\npromesse envers l'autre! Pour toujours! "
   },
   {
     "id": 8,
@@ -87,7 +87,7 @@
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Seeya,[SP]barkeep.[SP]I'll[SP]come[SP]again...\nYeah,[SP]I[SP]promise.",
     "nom_fr": "Jeune homme bourré",
-    "texte_fr": "A plus, msieur le barman. Je reviendrais...\n Ouaip, c'est promis."
+    "texte_fr": "¨Plus, monsieur le barman. Je reviendrais...\n Ouaip, promis."
   },
   {
     "id": 9,
@@ -97,7 +97,7 @@
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Huh?[SP]You[SP]kids[SP]shouldn't[SP]be[SP]out[SP]so[SP]late.[1205][U+000A]\nYou'll[SP]never[SP]grow[SP]up[SP]to[SP]be[SP]upstanding\ncitizens[SP]like[SP]that,[SP]you[SP]know?",
     "nom_fr": "Jeune homme bourré",
-    "texte_fr": "Hein? Vous ne devriez pas être dehors à cette heure là les enfants.[1205][U+000A]\n En grandissant vous ne serez pas de remarquables\n citoyens si vous continuez comme ça, vous savez?"
+    "texte_fr": "Hein? Vous ne devriez pas être dehors si tard les enfants.[1205][U+000A]\n En grandissant vous ne serez pas de remarquables\n citoyens si vous continuez, vous savez?"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Alright![1205][U+000A][SP]Looking[SP]good[SP]there,[SP]Kaoru,[SP]and[SP]not\nat[SP]all[SP]drunk.[SP]Looking[SP]like[SP]a[SP]man[SP]who's[SP]living\nup[SP]to[SP]his[SP]dreams.",
     "nom_fr": "Jeune homme bourré",
-    "texte_fr": "Très bien![1205][U+000A] T'a l'air bien là, Kaoru, et pas du\ntout bourré. Tu ressembles à un mec qui vit\n comme il en rêvait."
+    "texte_fr": "Très bien![1205][U+000A] T'a l'air bien là, Kaoru, et pas\n bourré. On dirait un mec qui vit\n comme il en rêvait."
   },
   {
     "id": 11,
@@ -117,7 +117,7 @@
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Hey,[SP]I'm[SP]gonna[SP]head[SP]home[SP]now...[1205][U+000A][SP]so[SP]you[SP]kids\nshould[SP]go[SP]home,[SP]too!",
     "nom_fr": "Jeune homme bourré",
-    "texte_fr": "Hey, je vais rentrer chez moi maintenant...[1205][U+000A] alors vous aussi les enfants\n vous devriez rentrer!"
+    "texte_fr": "Hey, je vais rentrer chez moi maintenant...[1205][U+000A] alors vous aussi les enfants\n vous devriez!"
   },
   {
     "id": 12,
@@ -127,6 +127,6 @@
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Or[SP]else[SP]I'll[SP]have[SP]to[SP]arrest[SP]you,[SP]haha.",
     "nom_fr": "Jeune homme bourré",
-    "texte_fr": "Ou sinon je vais devoir vous arrêter, haha."
+    "texte_fr": "Sinon je vais devoir vous arrêter, haha."
   }
 ]
