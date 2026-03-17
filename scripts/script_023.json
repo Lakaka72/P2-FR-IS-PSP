@@ -17,7 +17,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Yeah...[1205][001E][SP]I[SP]don't[SP]mind,[SP]either.",
     "nom_fr": "Garçon",
-    "texte_fr": "Oui...[1205][001E]."
+    "texte_fr": "Oui...[1205][001E]Ca me dérange pas."
   },
   {
     "id": 2,
@@ -46,7 +46,7 @@
     "data_size": 188,
     "nom_orig": "Boy",
     "texte_orig": "It's[SP]okay.[SP]I[SP]mean,[SP]you're[SP]practically[SP]me.\nAnd[SP]I'm[SP]you.[SP]It'll[SP]be[SP]like[SP]I[SP]still[SP]have[SP]it!",
-    "nom_fr": "Garçon",
+    "nom_fr": "Gars",
     "texte_fr": "T'es moi.\n Et moi toi. C'est comme si je l'ai!"
   },
   {
@@ -56,7 +56,7 @@
     "data_size": 178,
     "nom_orig": "Boy",
     "texte_orig": "Isn't[SP]this...[1205][001E][SP]your[SP]treasure?[SP]I[SP]thought\nyour[SP]dad[SP]gave[SP]this[SP]to[SP]you.[SP]You[SP]can't...",
-    "nom_fr": "Garçon",
+    "nom_fr": "Gars",
     "texte_fr": "N'est ce...[1205][001E] ton trésor? Je croyais que\n ton père te l'avait donné. Tu ne peux..."
   },
   {
@@ -66,7 +66,7 @@
     "data_size": 108,
     "nom_orig": "Boy",
     "texte_orig": "Okay,[SP]I[SP]understand.[SP]It'll[SP]be[SP]my[SP]treasure[SP]now!",
-    "nom_fr": "Garçon",
+    "nom_fr": "Gars",
     "texte_fr": "Ok, compris. c'est mon trésor maintenant!"
   },
   {
@@ -76,7 +76,7 @@
     "data_size": 280,
     "nom_orig": "Boy",
     "texte_orig": "Ahahahaha![SP]You're[SP]the[SP]greatest,[SP][U+1113]!\n[E1][E2][E4][NULL][NULL]\"Boy\nNo[SP]matter[SP]what[SP]happens,[SP]we're[SP]gonna[SP]keep[SP]our\npromise[SP]to[SP]each[SP]other![SP]Forever[SP]and[SP]ever!",
-    "nom_fr": "Garçon",
+    "nom_fr": "Gars",
     "texte_fr": "Ahaha! T'es le meilleur, [U+1113]!\n[E1][E2][E4][NULL][NULL]\"Garçon\nQu'importe ce qu'il arrive, nous gardons notre\npromesse envers l'autre! A jamais! "
   },
   {
